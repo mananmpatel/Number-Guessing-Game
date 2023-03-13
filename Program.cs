@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NumberGuessingGame
 {
-    class porgram
+    class program
     {
         const int range = 100;
         static void Main(string[] args)
